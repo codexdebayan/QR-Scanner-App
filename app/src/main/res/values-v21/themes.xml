@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme.MaterialTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorBackgroundFloating">@color/yellow</item>
+        <item name="android:colorAccent">@color/white</item>
+
+
+    </style>
+</resources>

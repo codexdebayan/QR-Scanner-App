@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".ACTION_PICK">
+
+    <Button
+        android:id="@+id/idBtnBrowse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="300dp"
+        android:layout_marginEnd="100dp"
+        android:layout_marginBottom="300dp"
+        android:background="@drawable/button_back"
+        android:onClick="BtnBrowse"
+        android:text="Browse"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/idTVScannedData2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/idBtnBrowse"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="400dp"
+        android:layout_marginBottom="100dp"
+        android:autoLink="web"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="Scanned data will appear here"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textIsSelectable="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:background="@color/black"
+        android:gravity="center_horizontal"
+        android:text="Developer : Debayan Chattopadhyay\nV:1.3.0"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/teal_200"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/idIVGallery"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/gallery" />
+
+</RelativeLayout>

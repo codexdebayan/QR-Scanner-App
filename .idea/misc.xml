@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/drawable/button_back.xml" value="0.12" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/drawable/button_back_new.xml" value="0.1725" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19538461538461538" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/layout/activity_action_pick.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/layout/activity_generate_qrcode.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/QRCodeScannerandGenerator/app/src/main/res/layout/activity_scan_qrcode.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
